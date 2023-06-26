@@ -1,6 +1,6 @@
 # stopwatch
 
-A new Flutter project. This app runs on Android devices
+A new Flutter project. This app runs on Android devices.
 
 This is a stopwatch with features like:
 1. Start: Allows users to start the stopwatch.
@@ -11,7 +11,7 @@ This is a stopwatch with features like:
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. It uses shared preferences for storing the lap time locally just to restore the lap times even when the app is closed or restarted
 
 A few resources to get you started if this is your first Flutter project:
 
